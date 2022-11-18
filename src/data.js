@@ -32,7 +32,7 @@ export const navData = [
 
 export const heroData = {
   pretitle: 'Nothing brings together like',
-  title: 'Bistro Cafe',
+  title: 'Raffy Cafe',
   subtitle:
     'Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. ',
   btnText: 'Find out more',
@@ -93,7 +93,7 @@ export const teamData = {
   title: 'meet our chef',
   sub1: ' Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis adipisci repudiandae enim ratione corrupti voluptatum suscipit distinctio dolor.',
   sub2: 'Sequi exercitationem quae deserunt reiciendis nesciunt perferendis atque quisquam, odit facere! Minima esse reiciendis, magnam fugiat totam maxime consequatur perspiciatis voluptas consequuntur.',
-  name: 'sara peter',
+  name: 'Ninong Ry',
   occupation: 'executive chef',
   signatureImg: SignatureImg,
   chefImg: ChefImg,
@@ -131,7 +131,7 @@ export const testimonialData = {
 export const reservationData = {
   title: 'booking form',
   subtitle:
-    'Call (800) 123-4567 from 5AM - 11PM daily, or book online with OpenTable.Reservations required for parties of 6 or more.',
+    'Call 111-9090 from 5AM - 11PM daily, or book online with OpenTable.Reservations required for parties of 6 or more.',
   modelImg: ModelBlackImg,
   btnText: 'make a reservation',
 };
@@ -146,8 +146,8 @@ export const newsletterData = {
 export const footerData = {
   contact: {
     title: 'contact location',
-    address: '3784 patterson road, #8 new york, CA 69000',
-    phone: '(201)256-3689',
+    address: 'Purok 2 Guio-ang Guindulman',
+    phone: '111-9090',
   },
   hours: {
     title: 'working hours',
